@@ -1,0 +1,23 @@
+.foto {
+    cursor: pointer;
+    width: 130px;
+}
+.titulo { text-align: center;}
+ 
+.imgPrincipal {
+    width:500px;
+    height: 400px;
+    object-fit: contain; }
+
+.contenedor {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 55vh;
+    margin: 0 }
+
+.descripcion {
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
